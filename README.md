@@ -18,6 +18,11 @@ simple click on run icon or right click on "TestRunner" class and select run opt
 # reporting
 integrated cucumber html reports
 Report can be found under "target -> cucumber-html-reports" folder
+# results
+**Scenario:**
+![image](https://user-images.githubusercontent.com/48619025/139587423-e1b35b8e-1ccb-47b4-ae15-c08ad599df72.png)
+**Steps:**
+![image](https://user-images.githubusercontent.com/48619025/139587440-d699cd26-c4fa-4567-a08a-c09d1f76fa48.png)
 
 # Test summary
 Framework demonstrates Api testing with Karate BDD dsl
